@@ -1,0 +1,42 @@
+
+<h1 align="center"> 📷🗺️ Travelgram 📷🗺️ </h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos HTML e CSS.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de uma página de galeria de fotos de viagem dos usuários" src="./capa-readme.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Git e GitHub
+-   Figma
+
+## 💻 Projeto
+
+Travelgram é uma página web onde o usuário monta sua galeria de fotos de viagens feitas ao redor do mundo. Clique <a href="https://travelgram-mu.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/fvhYdE0rSeQRjC2NhcgnXA/Perfil-de-viagens-(Community)?m=auto&is-community-duplicate=1&fuid=1050974991944149827">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
